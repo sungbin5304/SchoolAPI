@@ -27,7 +27,7 @@ School.find(region: SchoolRegion, name: String): School
 2. `INCHEON`
 3. `BUSAN`
 4. `GWANGJU`
-5. `DAEJEON
+5. `DAEJEON`
 6. `DAEGU`
 7. `SEJONG`
 8. `ULSAN`
