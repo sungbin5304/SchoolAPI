@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/sungbin5304/SchoolAPI/master/school.png" width="12%" height="12%"/>
 
-# SchoolAPI [![](https://jitpack.io/v/sungbin5304/SchoolAPI.svg)](https://jitpack.io/#sungbin5304/SchoolAPI)
+# SchoolAPI [![](https://jitpack.io/v/sungbin5304/SchoolAPI.svg)](https://jitpack.io/#sungbin5304/SchoolAPI) [[참고 라이브러리]](https://github.com/agemor/neis-api)
 학교 급식표 & 학사일정 조회 라이브러리
 
 -----
