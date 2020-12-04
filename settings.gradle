@@ -1,0 +1,3 @@
+include ':schoolapi'
+include ':app'
+rootProject.name = "SchoolAPI"
