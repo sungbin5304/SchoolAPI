@@ -50,7 +50,7 @@ val school = School.find(SchoolRegion.CHUNGNAM, "서령고등학교")
 
 # 2. 데이터 조회 및 사용
 ## ㄱ. 학교 식단표 조회
-<img align="right" src="https://user-images.githubusercontent.com/40740128/101173384-ce064600-3685-11eb-8ef6-f3947b1c1971.png" witdh="200dp" height="400dp"/>
+<img align="right" src="https://user-images.githubusercontent.com/40740128/101173384-ce064600-3685-11eb-8ef6-f3947b1c1971.png" witdh="200dp" height="300dp"/>
 
 ```kotlin
 School.getMonthlyMeal(year: Int, month: Int): List<SchoolMeal>
@@ -68,7 +68,7 @@ for ((index, value) in school.getMonthlyMeal(2020, 11).withIndex()) {
 ```
 
 ## ㄴ. 학교 학사일정 조회
-<img align="right" src="https://user-images.githubusercontent.com/40740128/101173670-2fc6b000-3686-11eb-9c4a-773e20e2cb7e.png" witdh="200dp" height="400dp"/>
+<img align="right" src="https://user-images.githubusercontent.com/40740128/101173670-2fc6b000-3686-11eb-9c4a-773e20e2cb7e.png" witdh="200dp" height="300dp"/>
 
 ```kotlin
 School.getMonthlySchedule(year: Int, month: Int): List<SchoolSchedule>
